@@ -4,3 +4,5 @@ cypress/videos/
 cypress/screenshots/
 irctc-captcha-solver/__pycache__
 cypress/downloads/
+.venv
+cypress.env.json
